@@ -1,0 +1,13 @@
+id,matricula,nombre,grupo,asignatura,asistencia,animo,estres,faltas,justificantes,calificacion,ultima_fecha
+1,A001,Ana López,A,Matemáticas,92,4,3.1,1,1,86,2025-09-29
+2,A001,Ana López,A,Física,90,3,3.4,1,0,82,2025-09-29
+3,A001,Ana López,A,Estadística,94,4,2.8,0,0,90,2025-09-29
+4,A002,Juan Pérez,A,Matemáticas,80,2,3.2,3,1,72,2025-09-29
+5,A002,Juan Pérez,A,Física,78,2,3.3,4,1,68,2025-09-29
+6,A002,Juan Pérez,A,Estadística,82,3,2.9,2,0,74,2025-09-29
+7,B001,María Ruiz,B,Matemáticas,88,3,3.2,1,0,84,2025-09-30
+8,B001,María Ruiz,B,Física,85,3,3.0,2,0,80,2025-09-30
+9,B001,María Ruiz,B,Estadística,90,4,2.8,0,0,87,2025-09-30
+10,C001,Pedro Gómez,C,Matemáticas,76,2,3.0,3,2,69,2025-09-30
+11,C001,Pedro Gómez,C,Física,74,2,3.1,4,2,65,2025-09-30
+12,C001,Pedro Gómez,C,Estadística,79,3,2.9,2,1,71,2025-09-30
